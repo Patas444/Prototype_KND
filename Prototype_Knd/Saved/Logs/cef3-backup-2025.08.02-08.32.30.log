@@ -1,6 +1,0 @@
-[0802/023152.532:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
-[0802/023153.973:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
-[0802/023153.987:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
-[0802/023154.547:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
-[0802/023154.591:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
-[0802/023230.850:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
